@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>675a9c12691c2328d5b73bdfdd5c4bdd.jpg</filename>
+  <path>./resized_all_raw_celebrities/675a9c12691c2328d5b73bdfdd5c4bdd.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>AkshayKumar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>367</xmin>
+      <ymin>89</ymin>
+      <xmax>571</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+</annotation>

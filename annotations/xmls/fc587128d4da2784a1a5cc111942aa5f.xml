@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>fc587128d4da2784a1a5cc111942aa5f.jpg</filename>
+  <path>./resized_all_raw_celebrities/fc587128d4da2784a1a5cc111942aa5f.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>534</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SachinTendulkar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323</xmin>
+      <ymin>130</ymin>
+      <xmax>441</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>e865927b4eaad4b55e833cc2dd3c15b7.jpg</filename>
+  <path>./resized_all_raw_celebrities/e865927b4eaad4b55e833cc2dd3c15b7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>KatrinaKaif</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>109</ymin>
+      <xmax>331</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

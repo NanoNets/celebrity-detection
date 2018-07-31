@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>a577aa6637ae5e06d1dc4f9c0c77e938.jpg</filename>
+  <path>./resized_all_raw_celebrities/a577aa6637ae5e06d1dc4f9c0c77e938.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>552</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SonamKapoor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>183</xmin>
+      <ymin>84</ymin>
+      <xmax>301</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>c07c2f7235ece30c40a4adb54d1127bf.jpg</filename>
+  <path>./resized_all_raw_celebrities/c07c2f7235ece30c40a4adb54d1127bf.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ViratKohli</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>285</xmin>
+      <ymin>83</ymin>
+      <xmax>426</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

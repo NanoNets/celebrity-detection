@@ -1,0 +1,1 @@
+{"segmented": 0, "object": {"name": "ViratKohli", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 166, "ymin": 210, "xmax": 370, "ymax": 414}}, "size": {"width": 640, "height": 800, "depth": 3}}

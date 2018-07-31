@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>f6d39fb6a01579ff296336372af6c76c.jpg</filename>
+  <path>./resized_all_raw_celebrities/f6d39fb6a01579ff296336372af6c76c.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>479</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>DeepikaPadukone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>232</xmin>
+      <ymin>107</ymin>
+      <xmax>350</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>

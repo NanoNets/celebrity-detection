@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>0c2e3afd952c7f7b859b28e103feeb5f.jpg</filename>
+  <path>./resized_all_raw_celebrities/0c2e3afd952c7f7b859b28e103feeb5f.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>533</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ShahrukhKhan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>137</xmin>
+      <ymin>189</ymin>
+      <xmax>341</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>

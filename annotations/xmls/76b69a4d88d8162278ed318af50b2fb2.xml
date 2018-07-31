@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>76b69a4d88d8162278ed318af50b2fb2.jpg</filename>
+  <path>./resized_all_raw_celebrities/76b69a4d88d8162278ed318af50b2fb2.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SalmanKhan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280</xmin>
+      <ymin>163</ymin>
+      <xmax>524</xmax>
+      <ymax>407</ymax>
+    </bndbox>
+  </object>
+</annotation>

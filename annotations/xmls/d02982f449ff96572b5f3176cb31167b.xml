@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>d02982f449ff96572b5f3176cb31167b.jpg</filename>
+  <path>./resized_all_raw_celebrities/d02982f449ff96572b5f3176cb31167b.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>561</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>AmitabhBachchan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>110</ymin>
+      <xmax>500</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+</annotation>

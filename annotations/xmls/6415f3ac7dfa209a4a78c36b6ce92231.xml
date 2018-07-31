@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./resized_all_raw_celebrities/</folder>
+  <filename>6415f3ac7dfa209a4a78c36b6ce92231.jpg</filename>
+  <path>./resized_all_raw_celebrities/6415f3ac7dfa209a4a78c36b6ce92231.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>532</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>AliaBhatt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>179</ymin>
+      <xmax>357</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+</annotation>
